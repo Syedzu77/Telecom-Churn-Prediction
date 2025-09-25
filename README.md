@@ -40,6 +40,3 @@ git clone https://github.com/S-G-001/customer_churn_prediction.git
 cd customer_churn_prediction
 pip install -r requirements.txt
 jupyter notebook ChurnPrediction.ipynb
-
-
-## 📂 Repository Structure
